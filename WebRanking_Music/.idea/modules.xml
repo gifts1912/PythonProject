@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JSRanker_Music/.idea/JSRanker_Music.iml" filepath="$PROJECT_DIR$/../JSRanker_Music/.idea/JSRanker_Music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project/MusicSegment/.idea/MusicSegment.iml" filepath="$PROJECT_DIR$/../Project/MusicSegment/.idea/MusicSegment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WebRanking_Music.iml" filepath="$PROJECT_DIR$/.idea/WebRanking_Music.iml" />
     </modules>
   </component>

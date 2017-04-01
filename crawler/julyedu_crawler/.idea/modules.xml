@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/MusicSegment/.idea/MusicSegment.iml" filepath="$USER_HOME$/PycharmProjects/MusicSegment/.idea/MusicSegment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/julyedu_crawler.iml" filepath="$PROJECT_DIR$/.idea/julyedu_crawler.iml" />
+    </modules>
+  </component>
+</project>
